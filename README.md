@@ -1,3 +1,7 @@
+---
+title: "AIMAR"
+---
+
 ## About AIMAR
 
 We are Gemstone Team AIMAR at the University of Maryland in the class of 2021. AIMAR stands for Artifically Intelligent Medical Assistant Robot, and it will be designed to assist doctors in diagnosing patients of a variety of ailments. The robot will use an array of sensors to collect data from the patient, then feed it to machine learning algorithms that have been trained with sample data to classify the symptoms and make the diagnosis.
