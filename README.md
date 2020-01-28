@@ -26,6 +26,3 @@ Librarian: Nedelina Tchangalova
 
 ## Contact Us
 <a id="email" href="#email" onclick="this.innerHTML='&#x202e;'+'moc'+'&#x2e;'+'liamg'+'&#x40;'+'ramiadmu'+'&#x202d;'">click to show email</a>
-
-<img alt="UMD Gemstone Logo" src="gemstone-logo.png" alt="drawing" height="100"/>
-<img alt="UMD Honors College Logo" src="honors-college-logo.png" alt="drawing" height="100"/>
