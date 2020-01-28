@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## About AIMAR
 
-You can use the [editor on GitHub](https://github.com/UMD-AIMAR/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are Gemstone Team AIMAR at the University of Maryland in the class of 2021. AIMAR stands for Artifically Intelligent Medical Assistant Robot, and it will be designed to assist doctors in diagnosing patients of a variety of ailments. The robot will use an array of sensors to collect data from the patient, then feed it to machine learning algorithms that have been trained with sample data to classify the symptoms and make the diagnosis.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Meet the Team
+![Team Picture](AIMAR.jpg)
+Team Members: Johan Vandegriff, Kian Ghorbanpoor, Joseph Tseytlin, Nathan Kattapuram, Oliver Pavletic, Natalie Offenberg, Paulos Daniel, Dana Ronin, Kevin Kuo, Michelle Marsandi, Benjamin Jacobsohn, Nina Horne, Ryan Utz
 
-### Markdown
+Mentor: Dr. Anil Deane
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Librarian: Nedelina Tchangalova
 
-```markdown
-Syntax highlighted code block
+## Goals
+- Look into Team SCOPE's previous research
+- Find and evaluate existing machine learning medical datasets
+- Decide which conditions to diagnose
+- Research different machine learning techniques/algorithms
+- Implement a natural language speech interface
+- Research privacy concerns/laws when dealing with medical data
+- Offload data processing from the robot to a server
+- Package existing solutions together
+- Talk to Synapto, a startup at UMD that diagnoses Alzheimer's with EEG data
+- Decide which diagnosis sensors to use
+- Decide which navigation sensors to use
+- Look into product design and pricing once the prototype is done
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UMD-AIMAR/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<a href="#" onclick="this.innerHTML='&#x202e;'+'moc'+'&#x2e;'+'liamg'+'&#x40;'+'ramiadmu'+'&#x202d;'">click to show email</a>
